@@ -1,6 +1,10 @@
 
 div{
     background-color: antiquewhite;
-    padding: 10ppx;
+    padding: 10px;
     margin-bottom: 10px;
+}
+#push{
+    background-color: tomato;
+    padding: 10px;
 }
