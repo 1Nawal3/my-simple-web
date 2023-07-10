@@ -3,8 +3,10 @@ div{
     background-color: antiquewhite;
     padding: 10px;
     margin-bottom: 10px;
+    text-align: justify;
 }
 #push{
     background-color: tomato;
     padding: 10px;
+    text-align: justify;
 }
